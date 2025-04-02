@@ -34,7 +34,7 @@ header {
   text-align: center;
   background-image: url('./img/bg1.png');
   background-size: cover;
-  background-position: 20px 30px;
+  background-position: fixed;
   color: white;
 }
 
